@@ -4,14 +4,15 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon server.js"
   },
   "author": "Mouhsine Elachbi",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "express-graphql": "^0.12.0",
+    "express-graphql": "^0.12.0"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.7"
   }
 }
