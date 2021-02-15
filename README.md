@@ -45,4 +45,8 @@ Or
 
 ####  Run json-server 
 
-  ``` json-server --watch server.js ```
+  ``` npm run json:server ```
+
+#### Running project
+
+`` npm run dev``
