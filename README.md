@@ -33,7 +33,7 @@ Clone the repository and start project.
 
   
 
-** Install dependencies **
+####  Install dependencies **
 
   ``` npm install ```
 
@@ -43,6 +43,6 @@ Or
 
   
 
-** Run json-server **
+####  Run json-server 
 
   ``` json-server --watch server.js ```
