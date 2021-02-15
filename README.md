@@ -6,4 +6,4 @@ Find more details on the original repository of [json-server](https://github.com
 
 # Usage
 Clone the repository and start project.
-$ git clone git@github.com:halfzebra/json-server-example.git my-project
+````git clone git@github.com:halfzebra/json-server-example.git my-project````
