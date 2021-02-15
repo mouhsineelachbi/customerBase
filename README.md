@@ -31,6 +31,8 @@ Clone the repository and start project.
 
  ``` git clone https://github.com/mouhsineelachbi/customerBase.git ```
 
+ `` cd customerBase/``
+
   
 
 ####  Install dependencies **
