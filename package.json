@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "json:server": "json-server --watch data.json"
   },
   "author": "Mouhsine Elachbi",
   "license": "ISC",
@@ -15,6 +16,7 @@
     "graphql": "^15.5.0"
   },
   "devDependencies": {
+    "json-server": "^0.16.3",
     "nodemon": "^2.0.7"
   }
 }
